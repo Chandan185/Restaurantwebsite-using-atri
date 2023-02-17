@@ -1,0 +1,20 @@
+{
+  "Flex": 215,
+  "TextBox": 219,
+  "Image": 102,
+  "Div": 13,
+  "Button": 31,
+  "Carousel": 3,
+  "Breadcrumb": 1,
+  "Modal": 1,
+  "Overlay": 1,
+  "Slider": 1,
+  "Step": 1,
+  "Testimonial": 2,
+  "Cascader": 1,
+  "AreaChart": 1,
+  "BarChart": 1,
+  "CandleStick": 1,
+  "Input": 26,
+  "Link": 5
+}

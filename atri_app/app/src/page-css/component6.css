@@ -1,0 +1,108 @@
+.p-component6.Flex49 {
+display: flex;
+height: 100%;
+}
+.p-component6.Flex50 {
+display: flex;
+flex-direction: column;
+width: 50%;
+background-color: #FF7629ff;
+align-self: flex-start;
+align-items: flex-start;
+justify-content: center;
+padding-top: ;
+padding-bottom: ;
+padding-left: ;
+row-gap: 33px;
+box-sizing: border-box;
+height: 100%;
+margin-top: ;
+}
+.p-component6.Flex52 {
+display: flex;
+flex-direction: column;
+row-gap: 33px;
+padding-top: 90px;
+padding-left: 150px;
+padding-bottom: 100px;
+align-self: flex-start;
+align-items: flex-start;
+justify-content: center;
+}
+.p-component6.Flex51 {
+display: flex;
+align-items: flex-start;
+justify-content: flex-start;
+column-gap: 30px;
+padding-bottom: ;
+}
+.p-component6.Image24 {
+width: 50%;
+overflow: visible;
+}
+.p-component6.TextBox69 {
+font-family: DM Sans;
+font-weight: 700;
+font-size: 38px;
+color: #ffffffff;
+width: ;
+max-width: 80%;
+}
+.p-component6.TextBox70 {
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #fffafaff;
+width: ;
+max-width: 80%;
+}
+.p-component6.Button7 {
+color: #ffffffff;
+background-color: transparent;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 500;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ffffffff;
+cursor: pointer;
+user-select: none;
+top: 10px;
+right: 25px;
+bottom: 10px;
+left: 25px;
+font-family: DM Sans;
+align-self: center;
+outline-color: transparent;
+}
+.p-component6.Button8 {
+color: #000000ff;
+background-color: #ffffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ccccccff;
+cursor: pointer;
+user-select: none;
+top: 10px;
+right: 25px;
+bottom: 10px;
+left: 25px;
+font-family: DM Sans;
+align-self: center;
+outline-color: transparent;
+}
